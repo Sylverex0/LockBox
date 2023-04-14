@@ -28,11 +28,11 @@ LockBox.exe --Decrypt InputFilePath OutputFile EncryptionKey
 
 Encrypting a file:
 
-LockBox.exe --Encrypt C:\Users\JohnDoe\Documents\file.txt C:\Users\JohnDoe\Documents\file.lockbox mySecretKey123
+LockBox.exe --Encrypt C:\Users\JohnDoe\Documents\file.txt C:\Users\JohnDoe\Documents\file.(any_extension) mySecretKey123
 
 Decrypting a file:
 
-LockBox.exe --Decrypt C:\Users\JohnDoe\Documents\file.lockbox C:\Users\JohnDoe\Documents\file.txt mySecretKey123
+LockBox.exe --Decrypt C:\Users\JohnDoe\Documents\file.lockbox C:\Users\JohnDoe\Documents\file.(any_extension) mySecretKey123
 
 ## License
 
