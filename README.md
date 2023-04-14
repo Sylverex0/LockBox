@@ -1,10 +1,10 @@
- LockBox
+###LockBox
 
 LockBox is a simple encryption and decryption program for file safety. It uses the AES encryption algorithm to encrypt and decrypt files. 
 
 ## Requirements
 
-- .NET Framework 4.7.2 or later
+- .NET Framework 4.8 or later
 
 ## Usage
 
