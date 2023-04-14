@@ -46,4 +46,4 @@ LockBox is released under the MIT license. Please see the LICENSE file for more 
 
 ## Contact
 
-If you have any questions or feedback about LockBox, please contact us at lockbox@example.com.
+If you have any questions or feedback about LockBox, please contact my discord at sylver#3544
