@@ -1,11 +1,39 @@
-# LockBox
+ LockBox
 
-LockBox is a console application that provides an easy way to encrypt and decrypt files using symmetric-key encryption algorithms.
+LockBox is a simple encryption and decryption program for file safety. It uses the AES encryption algorithm to encrypt and decrypt files. 
 
-## Features
+## Requirements
 
-- Supports encryption and decryption of files using a symmetric-key encryption algorithm.
-- Provides customizable options for encryption, including algorithm selection and key size.
-- Simple and easy-to-use command-line interface.
+- .NET Framework 4.7.2 or later
 
-## Unfinished.
+## Usage
+
+- Encrypt a file:
+
+LockBox.exe --Encrypt InputFilePath OutputFile EncryptionKey
+
+- `InputFilePath` - the path of the file to be encrypted
+- `OutputFile` - the name and path of the encrypted output file
+- `EncryptionKey` - the key to be used for encryption
+
+- Decrypt a file:
+
+LockBox.exe --Decrypt InputFilePath OutputFile EncryptionKey
+
+- `InputFilePath` - the path of the file to be decrypted
+- `OutputFile` - the name and path of the decrypted output file
+- `EncryptionKey` - the key to be used for decryption
+
+## Example
+
+Encrypting a file:
+
+LockBox.exe --Encrypt C:\Users\JohnDoe\Documents\file.txt C:\Users\JohnDoe\Documents\file.lockbox mySecretKey123
+
+Decrypting a file:
+
+LockBox.exe --Decrypt C:\Users\JohnDoe\Documents\file.lockbox C:\Users\JohnDoe\Documents\file.txt mySecretKey123
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
