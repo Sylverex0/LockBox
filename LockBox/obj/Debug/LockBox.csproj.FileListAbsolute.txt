@@ -1,0 +1,8 @@
+C:\Users\lun4r\OneDrive\Desktop\Projects\LockBox\LockBox\bin\Debug\LockBox.exe.config
+C:\Users\lun4r\OneDrive\Desktop\Projects\LockBox\LockBox\bin\Debug\LockBox.exe
+C:\Users\lun4r\OneDrive\Desktop\Projects\LockBox\LockBox\bin\Debug\LockBox.pdb
+C:\Users\lun4r\OneDrive\Desktop\Projects\LockBox\LockBox\obj\Debug\LockBox.csproj.AssemblyReference.cache
+C:\Users\lun4r\OneDrive\Desktop\Projects\LockBox\LockBox\obj\Debug\LockBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\lun4r\OneDrive\Desktop\Projects\LockBox\LockBox\obj\Debug\LockBox.csproj.CoreCompileInputs.cache
+C:\Users\lun4r\OneDrive\Desktop\Projects\LockBox\LockBox\obj\Debug\LockBox.exe
+C:\Users\lun4r\OneDrive\Desktop\Projects\LockBox\LockBox\obj\Debug\LockBox.pdb
