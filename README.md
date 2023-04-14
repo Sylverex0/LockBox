@@ -1,4 +1,4 @@
-###LockBox
+### LockBox
 
 LockBox is a simple encryption and decryption program for file safety. It uses the AES encryption algorithm to encrypt and decrypt files. 
 
