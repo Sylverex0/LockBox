@@ -19,13 +19,12 @@ LockBox is a console application that provides an easy way to encrypt and decryp
 
 To encrypt a file, run the following command:
 
-- lockbox.exe encrypt <input-file> <output-file> <key> [--algorithm <algorithm>] [--keysize <keysize>]
+- lockbox.exe encrypt <input-file> <output-file> <key> [--keysize <keysize>]
 
 ## ? 
 - `<input-file>`: The path to the file to be encrypted.
 - `<output-file>`: The path to the encrypted output file.
 - `<key>`: The encryption key to use.
-- `--algorithm`: (Optional) The encryption algorithm to use (default is AES).
 - `--keysize`: (Optional) The key size to use (default is 256 bits).
 
 To decrypt a file, run the following command:
@@ -33,7 +32,6 @@ To decrypt a file, run the following command:
 - `<input-file>`: The path to the encrypted file to be decrypted.
 - `<output-file>`: The path to the decrypted output file.
 - `<key>`: The decryption key to use.
-- `--algorithm`: (Optional) The encryption algorithm to use (default is AES).
 - `--keysize`: (Optional) The key size to use (default is 256 bits).
 
 ## Contributions
